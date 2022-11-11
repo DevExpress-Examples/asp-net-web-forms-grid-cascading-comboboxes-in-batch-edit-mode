@@ -146,7 +146,7 @@ protected void OnItemsRequestedByFilterCondition(object source, ListEditItemsReq
 - [BatchEditStartEditing](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.BatchEditStartEditing)
 - [SelectedIndexChanged](https://docs.devexpress.com/AspNet/js-ASPxClientComboBox.SelectedIndexChanged)
 - [PerformCallback](https://docs.devexpress.com/AspNet/js-ASPxClientComboBox.PerformCallback(parameter)) 
-- [EndCallback](https://docs.devexpress.com/AspNet/js-ASPxClientComboBox.EndCallback
+- [EndCallback](https://docs.devexpress.com/AspNet/js-ASPxClientComboBox.EndCallback)
 - [CellEditorInitialize](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView.CellEditorInitialize)
 
 ## Files to Look At
