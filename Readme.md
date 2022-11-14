@@ -3,7 +3,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/t124512/)**
 <!-- run online end -->
 
-This example demonstrates how to implement cascading combo box editors within [ASPxGridView](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView).
+This example demonstrates how to implement cascading combo box editors in [ASPxGridView](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView).
 
 ![CascadingCBBatchEditMode](images/CascadingCBBatchEditMode.png)
 
