@@ -1,4 +1,4 @@
-# Grid View for ASP.Net Web Forms - Cascading Combo Boxes in Batch Edit Mode
+# Grid View for ASP.NET Web Forms - Cascading Combo Boxes in Batch Edit Mode
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/t124512/)**
 <!-- run online end -->
@@ -32,7 +32,7 @@ Create an [ASPxGridView](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxG
 
 ## Manually Update the Secondary Combo Box Items
 
-Handle the grid's client-side [BatchEditStartEditing](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.BatchEditStartEditing) event. In the event handler, get the cell value (the [batchEditApi.GetCellValue](https://docs.devexpress.com/AspNet/js-ASPxClientGridViewBatchEditApi.GetCellValue(visibleIndex-columnFieldNameOrId) method) and call the [ASPxHiddenField](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxHiddenField) control's method to save this value. Call the secondary editor's [PerformCallback](https://docs.devexpress.com/AspNet/js-ASPxClientComboBox.PerformCallback(parameter)) method to update its data.
+Handle the grid's client-side [BatchEditStartEditing](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.BatchEditStartEditing) event. In the event handler, get the cell value (the [batchEditApi.GetCellValue](https://docs.devexpress.com/AspNet/js-ASPxClientGridViewBatchEditApi.GetCellValue(visibleIndex-columnFieldNameOrId)) method) and call the [ASPxHiddenField](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxHiddenField) control's method to save this value. Call the secondary editor's [PerformCallback](https://docs.devexpress.com/AspNet/js-ASPxClientComboBox.PerformCallback(parameter)) method to update its data.
 
 ```xml
 <dx:ASPxGridView ID="grid" runat="server"...>
