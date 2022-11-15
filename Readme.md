@@ -1,6 +1,6 @@
 # Grid View for ASP.NET Web Forms - Cascading Combo Boxes in Batch Edit Mode
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t124512/)**
+**[[Run Online]](https://codecentral.devexpress.com/128534653/)**
 <!-- run online end -->
 
 This example demonstrates how to implement cascading combo box editors in [ASPxGridView](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView).
