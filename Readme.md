@@ -13,7 +13,7 @@
 <!-- default file list end -->
 # ASPxGridView - How to implement cascading comboboxes in Batch Edit mode
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t124512/)**
+**[[Run Online]](https://codecentral.devexpress.com/128534653/)**
 <!-- run online end -->
 
 
