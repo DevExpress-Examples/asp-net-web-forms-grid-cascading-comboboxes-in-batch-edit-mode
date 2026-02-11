@@ -164,7 +164,7 @@ protected void OnItemsRequestedByFilterCondition(object source, ListEditItemsReq
 - [GridView for ASP.NET MVC- A simple implementation of cascading comboboxes in Batch Edit mode](https://github.com/DevExpress-Examples/gridview-a-simple-implementation-of-cascading-comboboxes-in-batch-edit-mode-t155879)
 - [Grid View for ASP.NET Web Forms - Cascading Combo Boxes](https://github.com/DevExpress-Examples/asp-net-web-forms-grid-cascaded-combo-box-columns/blob/15.1.3%2B/Readme.md)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-cascading-comboboxes-in-batch-edit-mode&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-cascading-comboboxes-in-batch-edit-mode&~~~was_helpful=no)
 
